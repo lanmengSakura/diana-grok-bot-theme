@@ -1,0 +1,14 @@
+{
+  "name": "diana-grok-bot-theme",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Reviewable Diana day and night visual blueprint for Grok Bot.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lanmengSakura/diana-grok-bot-theme.git"
+  },
+  "scripts": {
+    "test": "node scripts/validate-release.mjs"
+  }
+}
