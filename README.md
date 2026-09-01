@@ -2,7 +2,7 @@
 
 面向 Grok Bot 桌面端的嘉然（Diana）日间 / 暗夜视觉蓝图。
 
-> **预发布状态：`0.1.0-rc.1`。** 本仓库公开可审阅的 CSS 与目标专用美术，但不发布依赖桌面端调试接口的本机挂载器。最后一轮目标版本回归结束后再创建正式 Release。
+> **公开测试版：[`v0.1.0-beta.1`](https://github.com/lanmengSakura/diana-grok-bot-theme/releases/tag/v0.1.0-beta.1)。** Release 提供可审阅的 CSS 与目标专用美术蓝图，但不包含依赖桌面端调试接口的本机挂载器；正式稳定版等待扩大回归。
 
 ## 当前构图
 

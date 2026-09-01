@@ -1,6 +1,6 @@
-# Diana Grok Bot Theme 0.1.0-rc.1
+# Diana Grok Bot Theme 0.1.0-beta.1
 
-Status: **source pre-release; visual blueprint only**.
+Status: **public GitHub Beta; visual blueprint only, not a live-mount package**.
 
 ## Public implementation
 
