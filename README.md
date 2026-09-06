@@ -1,5 +1,9 @@
 # Diana Grok Bot Theme
 
+[在线体验 Grok Bot 主题](https://diana-launcher-demo.szbluedream01.chatgpt.site/themes?app=grok) · [启动器演示](https://diana-launcher-demo.szbluedream01.chatgpt.site/)
+
+可切换日间、暗夜与原版参考，查看示例界面。网页不操作本机，演示效果不代表已完成真实挂载。
+
 面向 Grok Bot 桌面端的嘉然（Diana）日间 / 暗夜视觉蓝图。
 
 > **公开测试版：[`v0.1.0-beta.1`](https://github.com/lanmengSakura/diana-grok-bot-theme/releases/tag/v0.1.0-beta.1)。** Release 提供可审阅的 CSS 与目标专用美术蓝图，但不包含依赖桌面端调试接口的本机挂载器；正式稳定版等待扩大回归。
